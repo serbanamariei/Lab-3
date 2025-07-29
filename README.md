@@ -1,2 +1,2 @@
 # Lab-3
-What I did in my third laboratory
+Basic elements of C programming language. Decision and repetition.
